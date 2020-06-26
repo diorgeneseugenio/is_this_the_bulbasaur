@@ -1,7 +1,4 @@
-# Is the Bulbasaur?
-## A study about image recognition with HOG and SVM.
-
-<hr>
+## Is the Bulbasaur? - A study about image recognition with HOG and SVM.
 
 ### Table of Contents
 
